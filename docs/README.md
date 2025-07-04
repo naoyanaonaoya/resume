@@ -11,14 +11,20 @@ layout: doc
 | 氏名     | 今井直哉                       |
 | 生年月日 | 1998/08/23                     |
 | 居住地   | 東京都                         |
-| 最終学歴 | 東京大学大学院機械工学専攻終了 |
+| 最終学歴 | 東京大学大学院 機械工学専攻 修了 |
 
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
   <a href="https://github.com/naoyanaonaoya" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/naoyanaonaoya-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://atcoder.jp/users/imaimaimaimai" target="_blank" title="imaimaimaimai"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fimaimaimaimai" /></a>
+    <img alt="Github" src="https://img.shields.io/badge/naoyanaonaoya-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://qiita.com/imainaoya" target="_blank" title="Qiita: imainaoya">
+    <img src="https://img.shields.io/badge/Qiita-imainaoya-55C500?style=flat-square&logo=qiita&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/imaimaimaimai" target="_blank" title="imaimaimaimai">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fimaimaimaimai" />
+  </a>
 </p>
 
 ## 保有スキル
@@ -48,12 +54,15 @@ layout: doc
 | <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />    | 1年      |
 | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> | 1年      |
 | <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />    | 1年      |
+| <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />       | 2年      |
 
 </div>
 
 ## 職務経歴
 
 ### 2024/04 ~ now 株式会社Cardio Flow Design
+
+正社員
 
 医療機器ソフトウェアの開発。開発リソースが限られる中での、ユーザー（心臓外科医、放射線科医など）を想定した利便性を考慮した機能実装。issue、pull requestおよびmerge管理。開発効率化のためのCI/CD構築。
 
@@ -72,8 +81,8 @@ layout: doc
   - 韓国における医療機器の申請および適合性監査の合格
     - 医療機器ドキュメントのMarkdown化、GitHub管理、CI/CD構築
   - 医療機器の展示のための海外出張 @ドイツ、アメリカ
-  - 医療機器資金獲得のピッチ @北海道
-  - 医療機器開発資金獲得のための行政への申請書作成
+  - 医療機器の開発資金の獲得のためのピッチ @学会
+  - 医療機器の開発資金の獲得のための行政への申請書作成
   - 富岳を用いたOSSのカスタマイズ
   - 社内業務を効率化するGASの開発
 
@@ -90,15 +99,15 @@ layout: doc
 - 役割
   - 機能実装
 - 担当プロジェクト
-  - .Netを用いた流体解析結果の後処理開発
+  - .Netを用いた流体解析の後処理プログラム開発
   - Pythonを用いた自動メッシュ生成プログラムの開発
-  - OpenFOAMの自動計算処理
+  - OpenFOAMの計算処理の自動化
 
 ## 意欲・興味
 
-- ユーザーが使いやすいプロダクトを作っていく過程を楽しみます。
-- チームとして開発していく中で、開発効率を上げる施策を取り入れるのが好きです。
-- チーム内での暗黙知の共有やドキュメント化を重視しています。
+- ユーザーが使いやすいプロダクトを作っていく過程を楽しみます
+- チームとして開発していく中で、開発効率を上げる施策を取り入れるのが好きです
+- チーム内での暗黙知の共有やドキュメント化を重視しています
 
 ## 業務外活動
 
@@ -106,13 +115,14 @@ layout: doc
   - [my page](https://atcoder.jp/users/ImaimaimaimaI)
     - Highest: 808
 
-- Webサイト運営（2021/04~2023/03）
-  - [Umeet](https://todai-umeet.com/)
+- Webサイト運営（2021/04~2022/03）
+  - [UmeeT](https://todai-umeet.com/)
     - TypeScript, GraphQL, React, Gatsby
-    - SHORTSの実装
+    - SHORTS記事の実装
     - ホスティングサービス移行
 
 ## 資格
 
 - TOEIC 860
-- 基本情報技術者
+- 基本情報技術者（2022年10月）
+- 応用情報技術者（2025年04月）
